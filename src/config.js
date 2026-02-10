@@ -139,7 +139,7 @@ const config = {
 	projectcards: [
 		{
 			go: "🚀 前往",
-			img: "/img/头像灰原哀1.png",
+			img: "/img/任务图像1.png",
 			title: "Time_Organization",
 			subtitle: "",
 			text: "敬请期待time_organization...",
