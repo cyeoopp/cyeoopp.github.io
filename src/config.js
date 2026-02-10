@@ -47,8 +47,8 @@ const config = {
 
 	//极坐标图数据
 	polarChart: {
-		skills: ['Django工程能力', 'Python能力', 'Py/Cpp算法能力', 'AI使用能力', 'ML/DL能力', '数学能力'],
-		skillPoints: [25, 25, 25, 100, 25, 25],
+		skills: ['Django工程能力', 'Python能力', 'Py/Cpp算法能力', 'AI使用能力', 'ML/DL能力', '数学能力', 'PostgreSQL能力'],
+		skillPoints: [25.7854, 23.4888, 24.4233, 100, 24.2296, 26.1481, 25.9247],
 	},
 
 	//社交按钮
