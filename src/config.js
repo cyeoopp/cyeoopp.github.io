@@ -1,14 +1,14 @@
 const config = {
 	//网页元数据
 	metaData: {
-		title: 'Leleo的个人主页🎉',
-		description: '欢迎来到Leleo的奇妙世界！',
-		keywords: 'Leleo,leleo,个人主页,个人网站',
+		title: "HELLO I'M CYEOOPP",
+		description: '我是cyeoopp兰州大学的cyz，很高兴认识你！',
+		keywords: '计算机,AI,INTP,帅气逼人',
 		icon: '/favicon.ico'   //网页图标，支持外链
 	},
 
 	avatar: "/img/avatar.jpg", // 头像
-	welcometitle: "Hi, I'm Leleo", // 标题
+	welcometitle: "Hi, I'm CYEOOPP", // 标题
 
 	// 颜色配置
 	color: {
@@ -53,12 +53,10 @@ const config = {
 
 	//社交按钮
 	socialPlatformIcons: [
-		{ icon: "mdi-github", link: "https://www.github.com/leleo886" },
-		{ icon: "mdi-email", link: "mailto:leleo886@foxmail.com" },
-		{ icon: "mdi-qqchat", link: "https://im.qq.com/" },
-		{ icon: "mdi-wechat", link: "https://wx.qq.com/" },
-		{ icon: "mdi-youtube", link: "https://www.youtube.com" },
-		{ icon: "mdi-facebook", link: "https://www.facebook.com" }
+		{ icon: "mdi-github", link: "https://github.com/cyeoopp" },
+		{ icon: "mdi-email", link: "mailto:cyeoopp@qq.com" },
+		{ icon: "mdi-qqchat", link: "https://wpa.qq.com/msgrd?v=3&uin=320240942621&site=qq&menu=yes" },
+		{ icon: "mdi-wechat", link: "https://wx.qq.com/" }
 	],
 
 	//打字机
@@ -148,7 +146,7 @@ const config = {
 		{ go: "🔍 前往", img: "/img/sunshine.jpg", title: "Project 8", subtitle: "8,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
 	],
 
-	statement: ["备案号：XXICP备123456789号", "Copyright © 2025 Leleo"],
+	statement: ["Copyright © 2026 CYEOOPP"],
 }
 
 export default config
