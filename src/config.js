@@ -1,7 +1,7 @@
 const config = {
 	//网页元数据
 	metaData: {
-		title: "HELLO I'M CYEOOPP",
+		title: 'cyeoopp的个人网页',
 		description: '我是cyeoopp兰州大学的cyz，很高兴认识你！',
 		keywords: '计算机,AI,INTP,帅气逼人',
 		icon: '/favicon.ico'   //网页图标，支持外链
