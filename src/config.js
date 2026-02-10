@@ -4,10 +4,10 @@ const config = {
 		title: 'cyeoopp的个人网页',
 		description: '我是cyeoopp兰州大学的cyz，很高兴认识你！',
 		keywords: '计算机,AI,INTP,帅气逼人',
-		icon: '/favicon.ico'   //网页图标，支持外链
+		icon: '/img/头像灰原哀1.png'   //网页图标，支持外链
 	},
 
-	avatar: "/img/gallery/头像灰原哀1.png", // 头像
+	avatar: "/img/头像灰原哀1.png", // 头像
 	welcometitle: "Hi, I'm CYEOOPP", // 标题
 
 	// 颜色配置
@@ -138,7 +138,7 @@ const config = {
 	projectcards: [
 		{
 			go: "🚀 前往",
-			img: "/img/gallery/头像灰原哀1.png",
+			img: "/img/头像灰原哀1.png",
 			title: "Time_Organization",
 			subtitle: "",
 			text: "敬请期待time_organization...",
